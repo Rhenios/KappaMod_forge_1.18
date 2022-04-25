@@ -1,0 +1,12 @@
+{
+  "parent": "kappamod:block/post",
+
+  "textures": {
+    "bottom": "kappamod:block/conblock/upperbock",
+    "top": "kappamod:block/conblock/upeerblock",
+    "side": "kappamod:block/conblock/side_block",
+    "particle": "kappamod:block/conblock/upperblock"
+  }
+}
+
+　

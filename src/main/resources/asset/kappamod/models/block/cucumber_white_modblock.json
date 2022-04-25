@@ -1,0 +1,12 @@
+{
+  "parent": "kappamod:block/post",
+
+  "textures": {
+    "bottom": "kappamod:block/cucumber_white_block",
+    "top": "kappamod:block/cucumber_white_block",
+    "side": "kappamod:block/cucumber_white_block",
+    "particle": "kappamod:block/cucumber_white_block"
+  }
+}
+
+　

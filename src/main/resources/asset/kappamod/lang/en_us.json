@@ -1,0 +1,76 @@
+{
+  "itemGroup.main.cucumber": "Cucumber mod",
+
+  "block.kappamod.cucumberblock": "Cucumber block",
+  "block.kappamod.cucumberore": "Cucumber ore",
+  "block.kappamod.hardcucmberore": "Hardcucmber ore",
+
+
+  "block.kappamod.cucumber_lightblue_block": "cucumber lightblue block",
+  "block.kappamod.cucumber_lightblue_block_1": "cucumber lightblue block 1",
+  "block.kappamod.cucumber_white_block": "cucumber white block",
+  "block.kappamod.cucumber_white_block_1": "cucumber white block 1",
+  "block.kappamod.cucumber_green_block": "cucumber green block",
+  "block.kappamod.cucumber_green_block_1": "cucumber green block 1",
+  "block.kappamod.cucumber_lightblue_slabblock": "cucumber lightblue slabblock",
+  "block.kappamod.cucumber_lightblue_slabblock_1": "cucumber lightblue slabblock 1",
+  "block.kappamod.cucumber_white_slabblock": "cucumber white slabblock",
+  "block.kappamod.cucumber_white_slabblock_1": "cucumber white slabblock 1",
+  "block.kappamod.cucumber_green_slabblock": "cucumber green slabblock",
+  "block.kappamod.cucumber_green_slabblock_1": "cucumber green slabblock 1",
+  "block.kappamod.cucumber_lightblue_stairblock": "cucumber lightblue stairblock",
+  "block.kappamod.cucumber_lightblue_stairblock_1": "cucumber lightblue stairblock 1",
+  "block.kappamod.cucumber_white_stairblock": "cucumber white stairblock",
+  "block.kappamod.cucumber_white_stairblock_1": "cucumber white stairblock 1",
+  "block.kappamod.cucumber_green_stairblock": "cucumber green stairblock",
+  "block.kappamod.cucumber_green_stairblock_1": "cucumber green stairblock 1",
+  "block.kappamod.cucumber_post_block": "cucumber post block",
+
+
+
+  "item.kappamod.cucumberraw": "Cucumber raw",
+  "item.kappamod.cucumberingot": "Cucumber ingot",
+  "item.kappamod.hardcucumberraw": "Hard cucumber raw",
+  "item.kappamod.hardcucumberingot": "Hard cucumber ingot",
+  "item.kappamod.cucumberalloy": "Cucumber alloy raw",
+  "item.kappamod.cucumberalloyingot": "Cucumber alloy",
+  "item.kappamod.cucumbermatter": "cucumber matter",
+  "item.kappamod.shardofcucumber": "shard of cucumber",
+
+  "item.kappamod.cucumber": "Cucumber",
+  "item.kappamod.mayo": "Mayo",
+  "item.kappamod.lard": "Lard",
+  "item.kappamod.potatosalada": "Potatosalad",
+
+  "item.kappamod.cucumberpickaxe": "Cucumber pickaxe",
+  "item.kappamod.cucumberaxe": "Cucumber axe",
+  "item.kappamod.cucumbershovel": "Cucumber hovel",
+  "item.kappamod.hardcucumberpickaxe": "Hard cucumber pickaxe",
+  "item.kappamod.hardcucumberaxe": "Hard cucumber axe",
+  "item.kappamod.hardcucumbershovel": "Hard cucumber shovel",
+  "item.kappamod.hardcucumbersword": "hardcucumbersword",
+  "item.kappamod.moonsword": "moonsword",
+  "item.kappamod.plateofkappa": "kappa plate",
+
+
+  "item.kappamod.cucumber_fly_ring": "cucumber fly ring",
+
+
+
+  "item.kappamod.cucumberarmer_helmet": "Cucumber helmet",
+  "item.kappamod.cucumberarmer_chestplate": "Cucumber chestplate",
+  "item.kappamod.cucumberarmer_leggings": "Cucumber leggings",
+  "item.kappamod.cucumberarmer_boots": "Cucumber boots",
+  "item.kappamod.excucumberarmor_helmet": "Ex cucumber helmet",
+  "item.kappamod.excucumberarmor_chestplate": "Ex cucumber chestplate",
+  "item.kappamod.excucumberarmor_leggings": "Ex cucumber Leggings",
+  "item.kappamod.excucumberarmor_boots": "Ex cucumber boots",
+  "item.kappamod.hardcucumberarmor_helmet": "Hard cucumber helmet",
+  "item.kappamod.hardcucumberarmor_chestplate": "Hard cucumber chestplate",
+  "item.kappamod.hardcucumberarmor_leggings": "Hard cucumber leggings",
+  "item.kappamod.hardcucumberarmor_boots": "Hard cucumber boots"
+
+
+
+
+}

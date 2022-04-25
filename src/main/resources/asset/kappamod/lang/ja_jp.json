@@ -1,0 +1,77 @@
+{
+  "itemGroup.main.cucumber": "きゅうりMOD",
+
+  "block.kappamod.cucumberblock": "きゅうりブロック",
+  "block.kappamod.cucumberore": "きゅうり鉱石",
+  "block.kappamod.hardcucumberore": "硬きゅうり鉱石",
+
+
+  "block.kappamod.cucumber_lightblue_block": "水色きゅうりブロック",
+  "block.kappamod.cucumber_lightblue_block_1": "水色きゅうりブロック1",
+  "block.kappamod.cucumber_white_block": "白色きゅうりブロック",
+  "block.kappamod.cucumber_white_block_1": "白色きゅうりブロック1",
+  "block.kappamod.cucumber_green_block": "緑色きゅうりブロック",
+  "block.kappamod.cucumber_green_block_1": "緑色きゅうりブロック1",
+  "block.kappamod.cucumber_lightblue_slabblock": "水色きゅうりハーフブロック",
+  "block.kappamod.cucumber_lightblue_slabblock_1": "水色きゅうりハーフブロック1",
+  "block.kappamod.cucumber_white_slabblock": "白色きゅうりハーフブロック",
+  "block.kappamod.cucumber_white_slabblock_1": "白色きゅうりハーフブロック1",
+  "block.kappamod.cucumber_green_slabblock": "緑色きゅうりハーフブロック",
+  "block.kappamod.cucumber_green_slabblock_1": "緑色きゅうりハーフブロック1",
+  "block.kappamod.cucumber_lightblue_stairblock": "水色きゅうり階段ブロック",
+  "block.kappamod.cucumber_lightblue_stairblock_1": "水色きゅうり階段ブロック1",
+  "block.kappamod.cucumber_white_stairblock": "白色きゅうり階段ブロック",
+  "block.kappamod.cucumber_white_stairblock_1": "白色きゅうり階段ブロック1",
+  "block.kappamod.cucumber_green_stairblock": "緑色きゅうり階段ブロック",
+  "block.kappamod.cucumber_green_stairblock_1": "緑色きゅうり階段ブロック1",
+  "block.kappamod.cucumber_post_block": "きゅうりの柱ブロック",
+
+
+  "item.kappamod.cucumberraw": "きゅうりの原石",
+  "item.kappamod.cucumberingot": "きゅうりインゴット",
+  "item.kappamod.hardcucumberraw": "硬きゅうりの原石",
+  "item.kappamod.hardcucumberingot": "硬きゅうりインゴット",
+  "item.kappamod.cucumberalloy": "きゅうり合金の原石",
+  "item.kappamod.cucumberalloyingot": "きゅうり合金",
+
+  "item.kappamod.cucumber": "きゅうり",
+  "item.kappamod.mayo": "マヨネーズ",
+  "item.kappamod.lard": "ラード",
+  "item.kappamod.potatosalada": "ポテトサラダ",
+  "item.kappamod.kappaebisen": "かっぱえびせん",
+  "item.kappamod.cucumbermatter": "きゅうりマター",
+  "item.kappamod.shardofcucumber": "きゅうりの欠片",
+
+
+  "item.kappamod.cucumberpickaxe": "きゅうりのツルハシ",
+  "item.kappamod.cucumberaxe": "きゅうりの斧",
+  "item.kappamod.cucumbershovel": "きゅうりのショベル",
+  "item.kappamod.cucumbersword": "きゅうりの剣",
+  "item.kappamod.hardcucumberpickaxe": "硬きゅうりのツルハシ",
+  "item.kappamod.hardcucumberaxe": "硬きゅうりの斧",
+  "item.kappamod.hardcucumbershovel": "硬きゅうりのショベル",
+  "item.kappamod.hardcucumbersword": "硬きゅうりの剣",
+  "item.kappamod.moonsword": "月牙鏟",
+  "item.kappamod.plateofkappa": "かっぱのさら",
+
+
+  "item.kappamod.cucumber_fly_ring": "飛行のきゅうりリング",
+
+
+  "item.kappamod.cucumberarmer_helmet": "きゅうりのヘルメット",
+  "item.kappamod.cucumberarmer_chestplate": "きゅうりのチェストプレート",
+  "item.kappamod.cucumberarmer_leggings": "きゅうりのレギンス",
+  "item.kappamod.cucumberarmer_boots": "きゅうりのブーツ",
+  "item.kappamod.excucumberarmor_helmet": "特別なきゅうりのヘルメット",
+  "item.kappamod.excucumberarmor_chestplate": "特別なきゅうりのチェストプレート",
+  "item.kappamod.excucumberarmor_leggings": "特別なきゅうりのレギンス",
+  "item.kappamod.excucumberarmor_boots": "特別なきゅうりのブーツ",
+  "item.kappamod.hardcucumberarmor_helmet": "硬きゅうり ヘルメット",
+  "item.kappamod.hardcucumberarmor_chestplate": "硬きゅうり チェストプレート",
+  "item.kappamod.hardcucumberarmor_leggings": "硬きゅうり レギンス",
+  "item.kappamod.hardcucumberarmor_boots": "硬きゅうり ブーツ"
+
+
+
+
+}
