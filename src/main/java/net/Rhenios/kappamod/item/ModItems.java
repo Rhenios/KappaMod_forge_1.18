@@ -19,7 +19,7 @@ public class ModItems {
     public static final RegistryObject<Item> cucumberalloy = registernomalItem("cucumberalloy");
     public static final RegistryObject<Item> cucumberalloyingot = registernomalItem("cucumberalloyingot");
     public static final RegistryObject<Item> cucumberingot = registernomalItem("cucumberingot");
-    public static final RegistryObject<Item> cucumberraw = registernomalItem("cucumberraw");
+    public static final RegistryObject<Item> cucumberraw = registernomalItem(       "cucumberraw");
     public static final RegistryObject<Item> hardcucumberingot = registernomalItem("hardcucumberingot");
     public static final RegistryObject<Item> hardcucumberraw = registernomalItem("hardcucumberraw");
     public static final RegistryObject<Item> cucumbermatter = registernomalItem("cucumbermatter");
